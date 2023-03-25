@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uizor.Modal.Sampel", "Uizor.Modal.Sampel\Uizor.Modal.Sampel.csproj", "{AF624DF1-8989-4266-8DC9-2B41C1FEBF71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uizor.Modal", "..\..\Uizor.Modal\Uizor.Modal.csproj", "{19A51EDC-4360-4D33-BD2C-56E8154A7650}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uizor.Modal.Tests", "..\..\Uizor.Modal.Tests\Uizor.Modal.Tests.csproj", "{D52D7623-A950-4F39-A2B1-47D8F6C3B117}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{AF624DF1-8989-4266-8DC9-2B41C1FEBF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF624DF1-8989-4266-8DC9-2B41C1FEBF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF624DF1-8989-4266-8DC9-2B41C1FEBF71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A51EDC-4360-4D33-BD2C-56E8154A7650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A51EDC-4360-4D33-BD2C-56E8154A7650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A51EDC-4360-4D33-BD2C-56E8154A7650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A51EDC-4360-4D33-BD2C-56E8154A7650}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52D7623-A950-4F39-A2B1-47D8F6C3B117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52D7623-A950-4F39-A2B1-47D8F6C3B117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52D7623-A950-4F39-A2B1-47D8F6C3B117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52D7623-A950-4F39-A2B1-47D8F6C3B117}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
