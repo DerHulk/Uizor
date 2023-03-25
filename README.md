@@ -8,3 +8,6 @@ The name is synthesized from UI and blazor.
 - Create a working Tab-Component
 - Create a working Table-Component
 - Create a working Accordion-Component
+
+## Inspirated from
+- [Blazored](https://github.com/Blazored/Modal)
