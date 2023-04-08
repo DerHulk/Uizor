@@ -11,3 +11,5 @@ The name is synthesized from UI and blazor.
 
 ## Inspirated from
 - [Blazored](https://github.com/Blazored/Modal)
+- [Blazorise](https://github.com/Megabit/Blazorise)
+- [radzen-blazor](https://github.com/radzenhq/radzen-blazor)

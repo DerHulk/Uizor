@@ -8,6 +8,9 @@ namespace Uizor.Modal
 {
     public interface IModalService
     {
+        event EventHandler OnOpenRequest;
+
+        void Open();
         Task<IModalInstance> Open<TModal, TModalResult>() where TModalResult : IModalResult;
         Task<IModalInstance> Open<TModal, TModalResult, T>() where TModalResult : IModalResult<T>;
     }
